@@ -1,16 +1,47 @@
-# fire_flutter_auth
 
-A new Flutter project.
+# Fire Flutter Auth CatAPI
 
-## Getting Started
+Pequena aplicação com login e cadastro, exibindo catFacts para usuários logados
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Client:** Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Server:** Firebase, CatFacts API
+
+  
+## Recursos
+
+- Criação de Novo usuário
+- Login em usuário existente
+- mostrar catFacts para usuários Logados
+
+
+  
+## Rodando Localmente
+
+Clonar o Projeto
+
+```bash
+  git clone https://github.com/RuhtracBP/fire-flutter-auth-cat-api
+```
+
+Ir ao diretório do projeto
+
+```bash
+  cd fire-flutter-auth-cat-api
+```
+
+Instalar Dependências
+
+```bash
+  flutter pub get
+```
+
+Utilizar Android Studio(ou similar) para rodar
+
+(Testado em dispositivos Android)
+
+
+  
